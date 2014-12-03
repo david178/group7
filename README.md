@@ -1,5 +1,5 @@
-group7
+propertyScout
 ======
-propertyScout application
+group7
 
 1) Requires Install - ArcGIS WPF SDK
